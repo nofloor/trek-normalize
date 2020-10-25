@@ -1,6 +1,6 @@
 {
   "name": "trek-normalize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CSS normalizing for Trek.",
   "main": "index.sass",
   "dependencies": {},
